@@ -1,8 +1,9 @@
 #include <stdio.h>
+#include "A.h"
 
 int main( void )
 {
-	printf( "Hello World\n" ) ;
+	Aprint() ;
 
 	return 0 ;
 }
